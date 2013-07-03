@@ -37,3 +37,6 @@
 [submodule "yui3"]
 	path = yui3
 	url = git@github.com:kahunacoder/yui3.git
+[submodule "jquery"]
+	path = jquery
+	url = git@github.com:kahunacoder/jquery.git
