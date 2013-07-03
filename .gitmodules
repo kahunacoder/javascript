@@ -10,3 +10,6 @@
 [submodule "history.js"]
 	path = history.js
 	url = git@github.com:kahunacoder/history.js.git
+[submodule "underscore"]
+	path = underscore
+	url = git@github.com:kahunacoder/underscore.git
