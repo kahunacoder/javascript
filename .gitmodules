@@ -22,3 +22,6 @@
 [submodule "lawnchair"]
 	path = lawnchair
 	url = git@github.com:kahunacoder/lawnchair.git
+[submodule "mobile-boilerplate"]
+	path = mobile-boilerplate
+	url = git@github.com:kahunacoder/mobile-boilerplate.git
