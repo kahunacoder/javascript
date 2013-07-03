@@ -1,3 +1,6 @@
 [submodule "handlebars.js"]
 	path = handlebars.js
 	url = git@github.com:kahunacoder/handlebars.js.git
+[submodule "hammer.js"]
+	path = hammer.js
+	url = git@github.com:kahunacoder/hammer.js.git
