@@ -16,3 +16,6 @@
 [submodule "html5-boilerplate"]
 	path = html5-boilerplate
 	url = git@github.com:kahunacoder/html5-boilerplate.git
+[submodule "iscroll"]
+	path = iscroll
+	url = git@github.com:kahunacoder/iscroll.git
