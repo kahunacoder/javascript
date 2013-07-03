@@ -19,3 +19,6 @@
 [submodule "iscroll"]
 	path = iscroll
 	url = git@github.com:kahunacoder/iscroll.git
+[submodule "lawnchair"]
+	path = lawnchair
+	url = git@github.com:kahunacoder/lawnchair.git
