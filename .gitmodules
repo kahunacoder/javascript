@@ -31,3 +31,6 @@
 [submodule "simplecart-js"]
 	path = simplecart-js
 	url = git@github.com:kahunacoder/simplecart-js.git
+[submodule "Clamp.js"]
+	path = Clamp.js
+	url = git@github.com:kahunacoder/Clamp.js.git
