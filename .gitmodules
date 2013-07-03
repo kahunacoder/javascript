@@ -25,3 +25,6 @@
 [submodule "mobile-boilerplate"]
 	path = mobile-boilerplate
 	url = git@github.com:kahunacoder/mobile-boilerplate.git
+[submodule "fastclick"]
+	path = fastclick
+	url = git@github.com:kahunacoder/fastclick.git
