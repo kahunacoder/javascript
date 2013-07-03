@@ -28,3 +28,6 @@
 [submodule "fastclick"]
 	path = fastclick
 	url = git@github.com:kahunacoder/fastclick.git
+[submodule "simplecart-js"]
+	path = simplecart-js
+	url = git@github.com:kahunacoder/simplecart-js.git
