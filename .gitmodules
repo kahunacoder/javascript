@@ -1,0 +1,3 @@
+[submodule "handlebars.js"]
+	path = handlebars.js
+	url = git@github.com:kahunacoder/handlebars.js.git
