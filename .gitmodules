@@ -4,3 +4,6 @@
 [submodule "hammer.js"]
 	path = hammer.js
 	url = git@github.com:kahunacoder/hammer.js.git
+[submodule "webfontloader"]
+	path = webfontloader
+	url = git@github.com:kahunacoder/webfontloader.git
