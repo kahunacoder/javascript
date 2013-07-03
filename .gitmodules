@@ -34,3 +34,6 @@
 [submodule "Clamp.js"]
 	path = Clamp.js
 	url = git@github.com:kahunacoder/Clamp.js.git
+[submodule "yui3"]
+	path = yui3
+	url = git@github.com:kahunacoder/yui3.git
