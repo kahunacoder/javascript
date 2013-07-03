@@ -40,3 +40,6 @@
 [submodule "jquery"]
 	path = jquery
 	url = git@github.com:kahunacoder/jquery.git
+[submodule "jquery-mobile"]
+	path = jquery-mobile
+	url = git@github.com:kahunacoder/jquery-mobile.git
