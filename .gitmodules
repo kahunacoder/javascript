@@ -52,3 +52,6 @@
 [submodule "jqGrid"]
 	path = jqGrid
 	url = git@github.com:kahunacoder/jqGrid.git
+[submodule "Quovolver"]
+	path = Quovolver
+	url = git@github.com:kahunacoder/Quovolver.git
