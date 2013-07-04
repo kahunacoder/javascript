@@ -49,3 +49,6 @@
 [submodule "jquery-validation"]
 	path = jquery-validation
 	url = git@github.com:kahunacoder/jquery-validation.git
+[submodule "jqGrid"]
+	path = jqGrid
+	url = git@github.com:kahunacoder/jqGrid.git
